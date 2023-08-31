@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "file -b /tmp/iamafile" > check_file_type>sh
