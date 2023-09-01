@@ -1,0 +1,21 @@
+#!/bin/bash
+clear
+
+cat << "EOF"
+A long time ago in a galaxy far, far away....
+
+   ____        _      __    __ ______  __     __  ____   _    _
+  / __ \      / \    /  \  / /|  _ \ \/  \   /  \/  _ \ | |  | |
+ / /  \ \    / _ \  / /\ \| | | | \ | \   \/   /| / \| | |  | |
+< <    > >  / ____ \| |__| | | | |_/ /  \      / < < | | |__| |
+ \ \  / /  / /    \ |  __  | | |  __/    \    /   \_\| |____  |
+  \ \/ /  / /      \ \ |  | | | | |        \  /         _   | |
+   \__/  /_/        \_\|  | |_| |_|         \/         |_|  |_|
+
+EOF
+
+sleep 5  # Adjust the sleep duration as needed
+
+# Clear the screen again before exiting
+clear
+
