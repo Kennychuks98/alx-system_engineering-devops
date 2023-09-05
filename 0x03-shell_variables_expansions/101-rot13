@@ -1,2 +1,0 @@
-#!/bin/bash
-./rot13.sh encode "Hello, World!"
