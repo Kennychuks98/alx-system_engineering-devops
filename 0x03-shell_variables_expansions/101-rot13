@@ -1,2 +1,0 @@
-#!/bin/bash
-echo "Usage: $0 <encode|decode> <text>"
