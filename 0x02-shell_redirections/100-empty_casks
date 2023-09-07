@@ -1,2 +1,2 @@
-#!/bin/bash
-find . -type d -empty -printf "%f\n" && find . -type f -empty -printf "%f\n" | grep -v '\.\.' | cut -c 3-
+find . -empty -type d -print | sed 's/.\///' && find . -empty -type f -print | sed 's/.\///'
+
